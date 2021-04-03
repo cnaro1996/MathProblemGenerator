@@ -1,0 +1,5 @@
+package util;
+
+public enum Domain {
+    NATURALS, INTEGERS, NEGATIVEINTEGERS, RATIONALS, IRRATIONALS
+};
